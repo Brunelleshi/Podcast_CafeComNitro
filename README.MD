@@ -13,6 +13,8 @@
     🎧 [Clique aqui para ouvir o episódio](output/podcast_editado.mp3)
 </div>
 
+🎧 [Clique aqui para ouvir o episódio](output/podcast_editado.mp3)
+
 ## 💻 Tecnologias utilizadas
 
 - Roteiro gerado via [ChatGPT](https://chat.openai.com/) 
