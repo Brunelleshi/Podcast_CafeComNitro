@@ -9,10 +9,6 @@
     Projeto de Podcast Criado com IAs Generativas
 </p>
 
-<div align="center">
-    🎧 [Clique aqui para ouvir o episódio](output/podcast_editado.mp3)
-</div>
-
 🎧 [Clique aqui para ouvir o episódio](output/podcast_editado.mp3)
 
 ## 💻 Tecnologias utilizadas
