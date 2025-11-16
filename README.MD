@@ -30,7 +30,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Nome do Podcast  | Você é um roteirista e deverá criar um podcast de conteúdo automotivo, focado em noticias e lançamentos sobre carros no mercado brasileiro. Nessa primeira etapa você terá que criar algumas ideias de títulos e subtítulos para o programa levando em consideração as regras:
+|  Nome do Podcast  |  Você é um roteirista e deverá criar um podcast de conteúdo automotivo, focado em noticias e lançamentos sobre carros no mercado brasileiro. Nessa primeira etapa você terá que criar algumas ideias de títulos e subtítulos para o programa levando em consideração as regras:
 
 - O nome deve ser enxuto, lembre-se de criar o titulo para o podcast e também um subtítulo
 - Crie 10 ideias, tente ser mais descontraído e com tom mais humorístico
@@ -57,8 +57,7 @@ Importante:
 - O roteiro inteiro deve ser entregue já no formato completo, seguindo as tags de emoção e entonação que o ElevenLabs interpreta
 - O texto deve soar natural, leve e divertido
 - Não use termos em inglês
-- Não use a tag [dramatic pause]
- |
+- Não use a tag [dramatic pause]  |
 
 
 Leonardo.ai：
