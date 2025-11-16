@@ -6,29 +6,23 @@
 </p>
 
 <p align="center">
-    Café com Nitro - Um boost matinal nas atualizações automotivas do Brasil
-</p>
-
-<p align="center">
     Projeto de Podcast Criado com IAs Generativas
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.mp3" controls title="Podcast editado"></audio>
+    🎧 [Clique aqui para ouvir o episódio](output/podcast_editado.mp3)
 </div>
 
-# 💻 Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
 - Roteiro gerado via [ChatGPT](https://chat.openai.com/) 
 - Imagem de capa gerada via [Leonardo.AI](https://app.leonardo.ai/)
 - Audio gerado via [ElevenLabs](https://beta.elevenlabs.io/)
 - Edição do áudio via [Capcut](https://www.capcut.com/pt-br/)
 
-# 🧠 Prompts
+## 🧠 Prompts
 
-## ChatGPT：
-
-### Nome do Podcast -
+## ChatGPT (Nome do Podcast)：
 Você é um roteirista e deverá criar um podcast de conteúdo automotivo, focado em noticias e lançamentos sobre carros no mercado brasileiro. Nessa primeira etapa você terá que criar algumas ideias de títulos e subtítulos para o programa levando em consideração as regras:
 
 - O nome deve ser enxuto, lembre-se de criar o titulo para o podcast e também um subtítulo
@@ -38,7 +32,7 @@ Você é um roteirista e deverá criar um podcast de conteúdo automotivo, focad
 - Não crie nomes com termos agressivos ou ofensivos a marcas
 - Se atente a nomes de outros podcasts, programas automotivos ou mesmo quadros de canais do youtube e crie algo que não copie eles
 
-### Roteiro do Episodio -
+## ChatGPT (Roteiro do Episodio):
 Lembrando que você é um roteirista e está ajudando um podcast automotivo chamado "Café com Nitro - Um boost matinal nas atualizações automotivas do Brasil", crie um  roteiro para um episódio com esse formato:
 [INTRODUÇÃO]
 [CURIOSIDADE 1]
@@ -60,12 +54,10 @@ Importante:
 - Não use termos em inglês
 - Não use a tag [dramatic pause]
 
-## Leonardo.ai：
+## Leonardo.ai (Imagem de Capa):
+A vibrant cartoonish cover art image for a podcast about car news named Café com Nitro, featuring a stylized illustration of a guy smiling, dark hair, and a warm olive skin tone, holding a podcast style microphone, surrounded by colorful car elements, such as car wheels, exhaust pipes, and a giant coffee cup. The title is displayed prominently in bold, playful, golden lettering with a speedometer-inspired font, the entire scene is set against a bright blue sky with fluffy white clouds, conveying a sense of energy, excitement, and fun.
 
-### Imagem de Capa -
- A vibrant cartoonish cover art image for a podcast about car news named Café com Nitro, featuring a stylized illustration of a guy smiling, dark hair, and a warm olive skin tone, holding a podcast style microphone, surrounded by colorful car elements, such as car wheels, exhaust pipes, and a giant coffee cup. The title is displayed prominently in bold, playful, golden lettering with a speedometer-inspired font, the entire scene is set against a bright blue sky with fluffy white clouds, conveying a sense of energy, excitement, and fun.
-
-# 👨‍💻 Criado por
+## 👨‍💻 Criado por
 
 <p>
     <img 
